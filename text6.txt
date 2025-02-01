@@ -1,0 +1,12 @@
+Assessment Q6:How do the <input> and <textarea> tags differ in their usage?When would you use one over the other?
+
+Ans:The key difference is <input> tag is used for single-line input fields where the user can input data(like:-text,email,password etc).An input can vary
+    in many ways,depending on the type attribute.While the <textarea> tag is used for multi-line text input control(like:-message,comments,descriptions
+    etc),it allow users to enter a sizeable amount of text,where the size of a text area can be specified by cols and rows attributes.
+
+
+    If the user needs to enter a single-line input fields such as their name,we can use <input> tag over the <textarea> tag.This 
+    will create a single-line text input field where the user can enter a short piece of text.
+    If the user needs to enter a multi-line input fields such as comments, we can use <textarea> tag over the <input> tag.This 
+    will create a multi-line text input field where the user can enter a larger amount of text.
+    

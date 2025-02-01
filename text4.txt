@@ -1,0 +1,8 @@
+Assessment Q4:What is the purpose of the placeholder attribute?How is it different from the value attribute?
+
+Ans:The "placeholder" attribute in HTML is used to display a short hint text inside an input field,providing a visual cue to the user 
+    about the type of data expected to be entered.It disappears once the user starts typing in the field. 
+ 
+
+    The "placeholder" attribute specifies a short hint that describes the expected value of an input field,While the "value" attribute 
+    specifies the default value of an input field;if no value is specified then default one will be taken during form submission.

@@ -1,0 +1,8 @@
+Assessment Q2:Why does the browser display the alt text instead of the image?What is the purpose of the alt attribute int the <img> tag?
+
+
+Ans:A browser displays the "alt text" instead of an image when the image itself cannot be loaded for any reason(because of slow connection, 
+    broken link,an error in the src attribute).
+
+    The alt attribute in an HTML<img> tag provides a textual description of an image for users who cannot see it.It is useful when the image 
+    is not displayed.
