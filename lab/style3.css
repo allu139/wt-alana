@@ -1,0 +1,27 @@
+body{
+	background-color:#F4D793;
+}
+nav ul li 
+{
+	display:inline-block;
+	margin-right: 25px;
+}
+nav a
+{
+	color:#A31D1D;
+}
+#name
+{
+	font-size:35px;
+	
+}
+
+p
+{
+	font-size: 20px;
+   
+}
+h2
+{
+	font-size:30px;
+}

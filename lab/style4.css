@@ -1,0 +1,56 @@
+body
+{
+	background-color:#f6e4ad;
+}
+table 
+{
+
+	border-collapse: collapse;
+
+	width: 100%;
+
+	margin-top: 20px;
+
+}
+
+
+th, td 
+{
+    
+	border: 1px solid #ddd;
+
+	padding: 10px;
+
+	text-align: center;
+
+}
+
+
+th 
+{
+
+	background-color:#cbf078;
+
+}
+
+
+caption 
+{
+
+	font-weight: bold;
+
+	font-size: 18px;
+
+	margin-bottom: 10px;
+
+}
+
+summary
+{
+	 color:#be3144;
+}
+p
+{
+	font-family:cursive;
+	color:#bc2525;
+}
