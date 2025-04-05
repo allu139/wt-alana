@@ -4,12 +4,9 @@ body
 }
 nav ul li
 {
-
-	    display:inline-block;
-	    margin-right: 20px;
-
+	display:inline-block;
+	margin-right: 20px;
 }
-
 nav a
 {
 	color:#A31D1D;
@@ -17,12 +14,8 @@ nav a
 h2, h3 
 {
 	 margin-top: 20px;
-
 }
-
-
 p
 {
 	font-size: 18px;
-   
 }
